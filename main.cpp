@@ -19,6 +19,7 @@ int main()
 
     do
     {
+        cout << "\nHello my teacher\n";
         cout << "\n=== Variant 75: Speed converter ===\n";
         cout << "1. Knots -> km/h\n";
         cout << "2. Km/h -> knots\n";

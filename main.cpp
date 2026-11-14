@@ -20,6 +20,7 @@ int main()
     do
     {
         cout << "\nHello my teacher\n";
+        cout << "Sir\n";
         cout << "\n=== Variant 75: Speed converter ===\n";
         cout << "1. Knots -> km/h\n";
         cout << "2. Km/h -> knots\n";
@@ -30,7 +31,7 @@ int main()
 
         if (!cin)
         {
-            cout << "Error: please enter a number.\n";
+            cout << "Error: please enter a number!\n";
             return 1;
         }
 
@@ -42,6 +43,7 @@ int main()
 
                 if (!cin)
                 {
+                    cout << "Sir\n";
                     cout << "Error: please enter a number.\n";
                     return 1;
                 }

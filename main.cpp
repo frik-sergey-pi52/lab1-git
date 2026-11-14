@@ -19,6 +19,7 @@ int main()
 
     do
     {
+        cout << "Zagolovok test";
         cout << "\nHello my teacher\n";
         cout << "Sir\n";
         cout << "\n=== Variant 75: Speed converter ===\n";
